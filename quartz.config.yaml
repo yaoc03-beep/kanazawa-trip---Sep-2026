@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: /kanazawa-trip---Sep-2026
+  baseUrl: "yaoc03-beep.github.io/kanazawa-trip---Sep-2026"
   ignorePatterns:
     - private
     - templates
